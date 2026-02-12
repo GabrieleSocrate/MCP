@@ -10,4 +10,5 @@ Without a standard, integrating:
 - with **N tools/data sources**
 requires  **MxN custom integrations
 
-![alt text](image.png)
+<img width="897" height="373" alt="1a" src="https://github.com/user-attachments/assets/da92a087-3c06-4693-a577-8a8fd723a8f7" />
+
