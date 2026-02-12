@@ -1,4 +1,4 @@
-In this md file you'll find the theory to understand MCP
+<img width="1114" height="373" alt="2" src="https://github.com/user-attachments/assets/8d0b0f7c-3402-4c87-98ec-42322bcee261" /><img width="1114" height="373" alt="2" src="https://github.com/user-attachments/assets/0b410e62-9fbc-4c32-b91e-8f177b6ff2ed" />In this md file you'll find the theory to understand MCP
 
 # Model Context Protocol (MCP) - Core concepts
 
@@ -15,7 +15,10 @@ requires  **MxN custom integrations
 MCP reduces this to **M+N**:
 - Each AI app implements MCP once (client side)
 - Each tool implements MCP once (server side)
---> lower complexity, better scalability 
+--> lower complexity, better scalability
+  
+<img width="1114" height="373" alt="2" src="https://github.com/user-attachments/assets/bf3dcbdf-8714-4b4b-9264-22cfc3809b29" />
+
 
 ## Architecture 
 MCP follows a **client–server architecture** composed of three components:
