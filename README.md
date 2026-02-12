@@ -1,4 +1,4 @@
-<img width="1114" height="373" alt="2" src="https://github.com/user-attachments/assets/8d0b0f7c-3402-4c87-98ec-42322bcee261" /><img width="1114" height="373" alt="2" src="https://github.com/user-attachments/assets/0b410e62-9fbc-4c32-b91e-8f177b6ff2ed" />In this md file you'll find the theory to understand MCP
+In this md file you'll find the theory to understand MCP
 
 # Model Context Protocol (MCP) - Core concepts
 
